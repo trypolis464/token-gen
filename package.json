@@ -1,0 +1,16 @@
+{
+  "name": "token-gen",
+  "version": "1.0.0",
+  "description": "Generates random strings/tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "token",
+    "string"
+  ],
+  "author": "trypolis464",
+  "license": "MIT"
+}
